@@ -1,6 +1,6 @@
 # anisongs-web-scraper
 
-Takes your MyAnimeList and retrieves a list of all of all your openings and endings.
+Takes your MyAnimeList and retrieves a list of all your favorite openings and endings.
 
 ## Requirements
 * A MAL account
