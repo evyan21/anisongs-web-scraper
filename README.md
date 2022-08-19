@@ -1,4 +1,4 @@
-# anisongs-web-scraper
+# song-web-scraper
 
 Takes your MyAnimeList and retrieves a list of all your favorite openings and endings.
 
